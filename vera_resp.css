@@ -1,0 +1,120 @@
+body {
+	font-family:'Sawarabi Gothic', sans-serif;;
+	background-color: #c4c9d1;
+    scroll-behavior: smooth;
+    font-size: 18px;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 40px;
+}
+
+.navbar
+{
+	background-color: gray;
+    overflow: hidden;
+}
+
+.navbar a {
+	font-family: 'Sawarabi Gothic', sans-serif;;
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    background-color: #a3abb7;
+    color: black;
+}
+
+.image1 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    border-radius: 10%;
+}
+
+section {
+	width:900px;
+    margin: auto;
+    margin-bottom: 30px;
+    border: 1px solid #8ba1c4;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #8ba1c4;
+    opacity: 0.8;
+}
+
+#hva {
+	background-color: orange;
+    opacity: 0.8;
+    margin-bottom: 200px;
+}
+
+h3 {
+	text-align: center;
+}
+
+
+
+.sit
+ {border: 1px solid #8ba1c4;
+    padding: 20px;
+    background-color:#8ba1c4;
+    opacity: 0.8;
+	width: 25%;
+	height: 60px;
+	float: left;
+	margin: 2.33%;
+	text-align: justify;
+	 border-radius: 20px;
+}
+
+.link 
+{border: 1px solid #8ba1c4;
+    padding: 10px;
+    background-color: #b5cdf2;
+    opacity: 0.8;
+	width: 25%;
+	height:60px;
+	float: left;
+	margin: 2.33%;
+	margin-bottom: 100px;
+	text-align: justify;
+	 border-radius: 20px;
+}
+
+.image2 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    border-radius: 10%;
+}
+
+
+#quotes {
+    text-align: justified;
+    margin-top:40px;
+}
+
+
+footer {
+   	overflow: hidden;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray ;
+    color: black;
+    text-align: center;
+}
